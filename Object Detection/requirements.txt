@@ -82,7 +82,7 @@ matplotlib==2.2.2
 mistune==0.8.4
 mxnet==1.2.0
 Naked==0.1.31
-nbconvert==5.6.0
+nbconvert==6.5.1
 nbformat==4.4.0
 nest-asyncio==1.0.0
 netaddr==0.7.19
